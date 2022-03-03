@@ -2,7 +2,7 @@
 
 ## Como rodar
 Primeiramente, dar clone no projeto do back (Desafio-Supero-back),
-em seguida, rodar o comando 
+em seguida, rodar o comando (rodar com uma versao 16 do node ou superior)
 
 ### ``` yarn ```
 
